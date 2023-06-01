@@ -37,4 +37,4 @@ async def say(ctx: commands.Context, *, сказать: str):
 @bot.command()
 async def test(ctx, *arg):
     await ctx.reply((f'{ctx.author.mention}'))
-bot.run('MTExMDgxMjAwODcwMzYxMDk0MQ.Gs9CP2.zmnFZpQswUuwBtKZbOMip1G0BFa6s8F68vuKC4')
+bot.run('MTExMDgxMjAwODcwMzYxMDk0MQ.GZ8Y2P.QTSaS3xJpsulZ3Tc2lRZtSJ0h8gQGG0ydBuojo')
